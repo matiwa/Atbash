@@ -1,0 +1,8 @@
+C:\Users\Windows 10\source\repos\Atbash\bin\Debug\Atbash.exe
+C:\Users\Windows 10\source\repos\Atbash\bin\Debug\Atbash.pdb
+C:\Users\Windows 10\source\repos\Atbash\obj\Debug\Atbash.csprojAssemblyReference.cache
+C:\Users\Windows 10\source\repos\Atbash\obj\Debug\Atbash.Form1.resources
+C:\Users\Windows 10\source\repos\Atbash\obj\Debug\Atbash.Properties.Resources.resources
+C:\Users\Windows 10\source\repos\Atbash\obj\Debug\Atbash.csproj.GenerateResource.cache
+C:\Users\Windows 10\source\repos\Atbash\obj\Debug\Atbash.exe
+C:\Users\Windows 10\source\repos\Atbash\obj\Debug\Atbash.pdb
